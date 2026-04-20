@@ -3,12 +3,12 @@
 #include <WiFiClientSecure.h>
 
 // ===== Wi-Fi Credentials =====
-const char* ssid     = "Realme_8";
-const char* password = "shreeram";
+const char* ssid     = "WIFI_name";
+const char* password = "WIFI_password";
 
 // ===== Telegram Bot Info =====
-const String botToken = "8530342095:AAEP0W9EbE5p1b_b_zk_5XCjgtKpKQ5mBwA";
-const String chatID   = "5076971597";
+const String botToken = "add_your_botToken";
+const String chatID   = "add_your_chatID";
 
 // ===== IR Sensor Pins =====
 const int irEntry = 15;  // Entry sensor
